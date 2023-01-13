@@ -1,0 +1,55 @@
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{ /*Llamado de ID*/
+    width: 100%;
+    border: 5px;
+}
+
+.principal{
+    background: #CCCCCC;  /*sistema de color hexagesimal RRGGBB 123456789ABCDEFG  - - - sistema rgb(_,_,_) 0-min 255-max*/ 
+    padding:20px;
+}
+
+.titulo-centralizado{/*Llamado de etiquetas HTML*/
+    text-align: center;
+    /*height: 150px;
+    border: 10px solid beige;
+    padding: 10px;
+    margin: 40px;*/
+}
+
+p{/*Llamado de etiquetas HTML*/
+    text-align: center;
+}
+
+em strong{/*Llamado de etiquetas HTML anidadas*/
+    color: brown;
+}
+
+#mision{/*Llamado de ID*/
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items{/*Llamado de clase*/
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
